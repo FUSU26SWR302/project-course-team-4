@@ -19,9 +19,9 @@ Hệ thống được thiết kế với 3 nhóm vai trò cốt lõi:
 Để triển khai và chạy thử nghiệm hệ thống tại môi trường local, vui lòng làm theo các bước sau:
 
 ### 1. Yêu cầu hệ thống (Prerequisites)
-* Java Development Kit (JDK) 11 trở lên.
-* Trình quản lý cơ sở dữ liệu: SQL Server (Khuyến khích sử dụng **Azure Data Studio** để quản lý và chạy script).
-* Web Server: Apache Tomcat 9.x.
+* **Môi trường chạy:** [Node.js](https://nodejs.org/) (Khuyến nghị phiên bản LTS).
+* **Trình soạn thảo mã nguồn:** [Visual Studio Code (VS Code)](https://code.visualstudio.com/).
+* **Trình quản lý cơ sở dữ liệu:** SQL Server (Quản lý qua Azure Data Studio) hoặc cơ sở dữ liệu nhóm đang sử dụng.
 
 ### 2. Các bước cài đặt
 1. **Clone mã nguồn từ GitHub Repository:**
